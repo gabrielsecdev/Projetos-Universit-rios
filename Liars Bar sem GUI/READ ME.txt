@@ -1,0 +1,6 @@
+-Escolher opção 1
+(jogo inicia)
+-Digitar o índice que corresponde a carta
+-Se voltar a jogar, pode escolher entre chamar mentiroso ao primeiro jogador, ou não premindo "s" ou "n"
+-Se premir n, volta a digitar os indices das restantes cartas
+(O jogo continua até alguém chamar mentiroso, ou apenas um jogador ficar com cartas)
